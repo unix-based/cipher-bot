@@ -1,3 +1,8 @@
+## **⚠️ Warning ⚠️**
+
+> This project is no longer supported and is not secure.   
+> Use it for academic purposes only. The encryption methods are not secure for real-world use.
+
 # Cipher bot
 [<img src=https://img.shields.io/badge/Telegram-%40TheCipher__bot-blue>](https://t.me/TheCipher_bot)
 <img src=https://img.shields.io/badge/Aiogram-3.0.0b7-blue>
